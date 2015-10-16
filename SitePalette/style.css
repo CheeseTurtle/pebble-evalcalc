@@ -1,0 +1,29 @@
+body {
+    
+}
+
+.contain {
+    display: flex;
+    flex-basis: main-size;
+    flex-flow: row;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.main {    
+    display: flex;
+    flex-basis: main-size;
+    flex-flow: row;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.content-wrap {
+    background-color: orange;
+    border-color:white;
+    border-width: 15px;
+    border-radius: 5px;
+}
+
+.content {    
+}
