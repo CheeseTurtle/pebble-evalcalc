@@ -1,0 +1,38 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "KSOO",
+    "longName": "EvalCalc",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/tick[1].png",
+                "name": "TICK",
+                "type": "png"
+            },
+            {
+                "file": "images/confirm[1].png",
+                "name": "CONFIRM",
+                "type": "png"
+            },
+            {
+                "file": "images/cross[1].png",
+                "name": "CROSS",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Eval",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "53296663-8db2-4269-9e73-308b153f8738",
+    "versionLabel": "0.1",
+    "watchapp": {
+        "watchface": false
+    }
+}
